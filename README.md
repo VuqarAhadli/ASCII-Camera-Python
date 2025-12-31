@@ -150,7 +150,6 @@ The ASCII Camera follows a clever process to transform video into art:
 Ideas for expanding this project:
 
 - Add command-line arguments for easy configuration
-- Save ASCII output to text files
 - Record ASCII videos
 - Add different ASCII character sets
 - Implement filters and effects
