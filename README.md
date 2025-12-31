@@ -14,11 +14,6 @@
 
 </div>
 
-## 📸 Demo
-
-Watch your webcam feed transform into mesmerizing ASCII art with full RGB colors, right in your terminal!
-
-> **Note:** Add a GIF or screenshot here to showcase your project in action!
 
 ## ✨ Features
 
