@@ -15,7 +15,7 @@ def ascii_color_from_frame(frame, width=200):
     img = img.resize((width, height))
 
     pixels = img.getdata()
-    chars = [".", ",", ":", ";", "+", "*", "?", "Y", "G", "#", "@"]
+    chars = [".", ",", ":", ";", "*", "+", "?", "Y", "G", "#", "@"]
 
     out = ""
     idx = 0
